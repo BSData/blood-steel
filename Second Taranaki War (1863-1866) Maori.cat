@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="ba27-8f85-03e5-b069" name="Second Taranaki War (1863-1866) Maori" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="3eb5-b432-c9db-d045" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="ba01-6a2e-8487-bb6b" name="Greater Maori Ariki" hidden="false" collective="false" import="true" targetId="b699-4427-c127-45aa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c621-0377-7085-e06d" name="New CategoryLink" hidden="false" targetId="3185-bbe6-86ce-96a4" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="40c0-fd03-fd2d-bdb9" name="Lesser Maori Ariki" hidden="false" collective="false" import="true" targetId="17f3-d87c-25dd-07aa" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="be74-ad2b-9c3c-85d7" name="New CategoryLink" hidden="false" targetId="3185-bbe6-86ce-96a4" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="5068-8099-1e7c-2018" name="Putatara Tohunga" hidden="false" collective="false" import="true" targetId="72e5-2e4b-7d2e-487d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="bceb-be19-e571-87fe" name="New CategoryLink" hidden="false" targetId="0389-64d4-2bab-e128" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8f15-7550-fab7-fd43" name="Te Kooti Arikirangi" hidden="false" collective="false" import="true" targetId="49f7-653f-d2a3-2dee" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="37e6-7e92-93fd-c419" name="New CategoryLink" hidden="false" targetId="3185-bbe6-86ce-96a4" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3de5-c674-a417-db8d" name="Pakeha Maori (White Men)" hidden="false" collective="false" import="true" targetId="9011-68b8-1bbb-604f" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d144-989e-70e6-4b6a" name="New CategoryLink" hidden="false" targetId="fe26-ffb2-897a-7556" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b13a-b08f-de71-51b8" name="Maori Toa with Shotguns" hidden="false" collective="false" import="true" targetId="1d55-871d-57ef-8540" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1023-45b8-ba08-e504" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="308d-a654-4762-07ce" name="Maori Toa with Muskets" hidden="false" collective="false" import="true" targetId="4fa5-18b7-6652-ab1c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d21d-4df8-a455-4dc3" name="New CategoryLink" hidden="false" targetId="fe26-ffb2-897a-7556" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="02c7-71da-a21e-f7bb" name="Improvised Artillery" hidden="false" collective="false" import="true" targetId="6032-1338-24f8-201e" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="6610-8a6e-7a4f-1659" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <rules>
+    <rule id="93da-b758-645c-4501" name="National Trait - Utu" hidden="false">
+      <description>When drawing for missions, the Maori player goes first and pulls or rolls for 2 missions from which he selects one to play, and discards the other one. Once that is done the opponent pulls or rolls for a mission.</description>
+    </rule>
+  </rules>
+  <sharedSelectionEntries>
+    <selectionEntry id="17f3-d87c-25dd-07aa" name="Lesser Maori Ariki" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="48de-2f3f-8ba5-eb94" name="Greater Maori Ariki" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">6</characteristic>
+            <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">5</characteristic>
+            <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+            <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">7</characteristic>
+            <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">5</characteristic>
+            <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">8&quot;</characteristic>
+            <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">2</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="63a8-e3d2-bb49-e5f0" name="Assault" hidden="false">
+          <description>May reroll all failed results during Shoot Saves from Defensive Fire.</description>
+        </rule>
+        <rule id="f0cf-e7c5-8afc-1d20" name="True Grit" hidden="false">
+          <description>May reroll failed results during Melee Save tests.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b699-4427-c127-45aa" name="Greater Maori Ariki" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="e5c0-9be2-dd1c-0e1f" name="Lesser Maori Ariki" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">6</characteristic>
+            <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">5</characteristic>
+            <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+            <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">7</characteristic>
+            <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">5</characteristic>
+            <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">8&quot;</characteristic>
+            <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">1</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="42fb-abc9-4c3c-8645" name="Assault" hidden="false">
+          <description>May reroll all failed results during Shoot Saves from Defensive Fire.</description>
+        </rule>
+        <rule id="29d3-3116-fff6-5d0f" name="True Grit" hidden="false">
+          <description>May reroll failed results during Melee Save tests.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="49f7-653f-d2a3-2dee" name="Te Kooti Arikirangi" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="547d-e412-83da-a383" name="Te Kooti Arikirangi" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">6</characteristic>
+            <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">5</characteristic>
+            <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+            <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">7</characteristic>
+            <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">5</characteristic>
+            <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">8&quot;</characteristic>
+            <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">2</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="3039-75e5-1494-7002" name="Tactician" hidden="false">
+          <description>After resolving the Calamity and Fortune step of the Initiative Phase, this leader’s player may change the value of 1 Initiative Die up or down by one.</description>
+        </rule>
+        <rule id="3c3c-7214-611b-89a7" name="Inspiring" hidden="false">
+          <description>Units in command may reroll failed Rally tests during this Leader’s activation</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="25.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4fa5-18b7-6652-ab1c" name="Maori Toa with Muskets" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="9d11-0de7-bce8-cea0" name="Elusive" hidden="false">
+          <description>Unit gains a -1 bonus to Shoot Saves while in cover from terrain.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="2a11-7c0e-9e1e-be55" name="Maori Toa" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="681a-47c8-49b1-e94b" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="98d0-76ba-8826-73f7" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="6bdd-9512-262a-08d6" name="Maori Toa" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">5</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="0ab6-8f04-3b19-d930" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="f00c-5a92-92a5-e37d" name="Smoothbore Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">30&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="5.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9011-68b8-1bbb-604f" name="Pakeha Maori (White Men)" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="4549-aeec-b7e9-d7af" name="Elusive" hidden="false">
+          <description>Unit gains a -1 bonus to Shoot Saves while in cover from terrain.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="5b41-889f-e342-8f47" name="Pakeha Maori" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c6ab-28af-2ecb-e1bb" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0527-f73f-46f8-4c34" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="2492-ea9d-fdc8-e252" name="Pakeha Maori" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">6</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="3aae-dc32-48ae-7c73" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="129c-e1ac-0153-0a97" name="Rifled Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">40&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.
+</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="5.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1d55-871d-57ef-8540" name="Maori Toa with Shotguns" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="869f-1c51-b4de-a229" name="Elusive" hidden="false">
+          <description>Unit gains a -1 bonus to Shoot Saves while in cover from terrain.</description>
+        </rule>
+        <rule id="d543-43b3-4a5f-bc69" name="Ruthless" hidden="false">
+          <description>Unit gains a -1 bonus to Shoot and Melee tests if this unit has fewer Fatigue Points than its target.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="1708-a3a7-e98b-3a15" name="Maori Toa" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c131-46fb-e0ae-cc0c" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="06c5-d494-1e7c-26a2" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="a34b-b6bd-916f-9091" name="Maori Toa" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">6</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="9178-87c6-0050-2f1c" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="956a-7791-35e2-ec9d" name="Shotgun (Repeater)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">12&apos;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Each natural roll of 10 adds one additional die to the Shoot test pool, but only once per attack.
+When double-barreled, they  are Repeaters. Shotgun-armed units may take 2 Shoot actions per activation when the weapon is listed as a Repeater and do not gain Reload markers.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="6.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6032-1338-24f8-201e" name="Improvised Artillery" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="71ca-3de3-23ad-25d2" name="Intimidating" hidden="false">
+          <description>Opponents hit by this unit must add an extra 1d10 to the Resolve test.</description>
+        </rule>
+        <rule id="8431-3561-ac23-228a" name="Slow Reload" hidden="false">
+          <description>This unit receives 2 Reload markers after shooting.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="7776-8e61-fd88-02af" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="af9f-435f-c15e-3b21" name="Artillery Crew" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="82d9-e247-bb23-e121" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d8d5-dcaa-8f34-ca27" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="eeb1-7d7d-dca8-588f" name="Artillery Crew" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">5</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="916d-4c5a-00d5-1dab" name="Light Artillery" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Unlimited</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">4d10 for Shoot tests, each natural 10 rolled yields an additional d10 roll to hit.
+Gain two Reload markers after shooting. Cannot Move and  Shoot. 90 degree arc of fire. Intimidating.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="20.0"/>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="72e5-2e4b-7d2e-487d" name="Putatara Tohunga" hidden="false" collective="false" import="true" type="upgrade">
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4bdc-fca2-966d-f1ec" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="781d-c460-d5c8-6e09" name="Putatara Tohunga" hidden="false">
+          <description>Add a single model to the Leader Unit to act as a Musician.
+The Leader’s command range is doubled while this model is part of the unit.
+Armed as modeled.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="716f-717a-577d-8622" name="New CategoryLink" hidden="false" targetId="0389-64d4-2bab-e128" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="10.0"/>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+</catalogue>

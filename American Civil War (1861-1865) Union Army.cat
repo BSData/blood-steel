@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="bf3c-bad3-2abb-aecb" name="American Civil War (1861-1865) Union Army" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="3eb5-b432-c9db-d045" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="9cc9-5674-c683-efcc" name="14th Brooklyn" hidden="false" collective="false" import="true" targetId="4f14-4c29-d9dc-e708" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="c03d-4c41-aa94-b502" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="da37-9964-6124-1460" name="Union Cavalry (Repeater Pistol)" hidden="false" collective="false" import="true" targetId="9c19-f123-3e85-0970" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a5a8-1715-30c1-401b" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7432-25cb-9981-372a" name="Major James Cavanagh" hidden="false" collective="false" import="true" targetId="82ba-7f55-ab64-8765" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d3e9-faba-54d4-cf2f" name="New CategoryLink" hidden="false" targetId="3185-bbe6-86ce-96a4" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2665-e279-e269-ea7b" name="Musician" hidden="false" collective="false" import="true" targetId="5d24-b4db-2bb5-69ff" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1c19-b2dc-0dd3-da6f" name="New CategoryLink" hidden="false" targetId="0389-64d4-2bab-e128" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="97dd-de4a-596a-3908" name="Non-Commissioned Officer" hidden="false" collective="false" import="true" targetId="1a46-24f5-c0a7-aad3" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="7f21-4d64-7bb0-74ec" name="New CategoryLink" hidden="false" targetId="0389-64d4-2bab-e128" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="fb23-1627-f0fa-b1cc" name="Union Lieutenant" hidden="false" collective="false" import="true" targetId="32fe-4eb7-a12e-f64a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="fca0-fdc6-f7c4-bd3f" name="New CategoryLink" hidden="false" targetId="3185-bbe6-86ce-96a4" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="55f4-5f4e-5b83-0f49" name="14th Brooklyn (Rifled Muskets)" hidden="false" collective="false" import="true" targetId="e3ca-733f-fe62-b179" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="66d6-a372-4d23-7842" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="748f-f8a1-bce5-d75d" name="U.S. Marines" hidden="false" collective="false" import="true" targetId="dd99-daef-0438-a3ce" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e552-b08f-720f-3b23" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="26d4-f959-cf9c-c34a" name="Union Captain" hidden="false" collective="false" import="true" targetId="3483-4ae3-b42f-fde4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4e6a-e52a-4fce-91ec" name="New CategoryLink" hidden="false" targetId="3185-bbe6-86ce-96a4" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f090-1ddd-ed74-ef90" name="U.S. Marines (Rifled Muskets)" hidden="false" collective="false" import="true" targetId="8e06-8f11-2df6-291a" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="ddd4-0faf-f872-1528" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0c13-60fa-2a74-ff8f" name="Union Veterans (Rifle Muskets)" hidden="false" collective="false" import="true" targetId="a4af-09be-2b52-ef25" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1fec-6550-f043-c7c7" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0fd2-fa96-036f-de9c" name="Artillery" hidden="false" collective="false" import="true" targetId="e870-421b-5854-3fa6" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="41d5-b372-7ca9-91be" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="47f8-b5f3-e091-c436" name="Union Troops" hidden="false" collective="false" import="true" targetId="e593-a340-5acb-2ced" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="af53-0332-e7f9-6608" name="New CategoryLink" hidden="false" targetId="fe26-ffb2-897a-7556" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="b065-f734-5c59-49f9" name="Union Major" hidden="false" collective="false" import="true" targetId="e2c4-625a-5146-3263" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="68be-f128-8711-ce1c" name="New CategoryLink" hidden="false" targetId="3185-bbe6-86ce-96a4" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="096f-78d9-e721-7369" name="Union Troops (Rifled Muskets)" hidden="false" collective="false" import="true" targetId="f60b-791d-8a08-b071" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e20b-d5f8-dbb2-0342" name="New CategoryLink" hidden="false" targetId="fe26-ffb2-897a-7556" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="4cca-703a-213c-7aaf" name="Union Militia" hidden="false" collective="false" import="true" targetId="5518-8516-e90b-d532" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8e1a-0e50-5550-0d19" name="New CategoryLink" hidden="false" targetId="fe26-ffb2-897a-7556" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8aed-5f37-d510-df68" name="Union Militia (Rifled Muskets)" hidden="false" collective="false" import="true" targetId="52f9-4c73-d8e7-44ae" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="54cf-7b6f-c4f2-fa4b" name="New CategoryLink" hidden="false" targetId="fe26-ffb2-897a-7556" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e1ae-b64f-339f-b2ad" name="Union Sharpshooter" hidden="false" collective="false" import="true" targetId="a93a-4174-4fdf-d799" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="859a-2d11-b01a-7754" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="24c9-eada-762e-ab22" name="Union Veterans" hidden="false" collective="false" import="true" targetId="0ea3-c893-779a-03cc" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="25c9-f64f-1cd2-3a64" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f886-57c1-98a3-3d40" name="Union Cavalry" hidden="false" collective="false" import="true" targetId="17c2-1006-802c-0f32" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="5d1f-0295-94a0-1cb6" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="6415-6d10-5ebd-0269" name="Union Cavalry (BL Carbine)" hidden="false" collective="false" import="true" targetId="c408-0a20-91d6-2359" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="aed7-ac42-bb81-8e7b" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <rules>
+    <rule id="c72e-fdb2-1da1-ffd1" name="National Trait - Fix Bayonets!" hidden="false">
+      <description>Once per game, a Union leader may give give the same single command action to all units  within command range and in line of sight of him instead of using Command Points.</description>
+    </rule>
+  </rules>
+  <sharedSelectionEntries>
+    <selectionEntry id="32fe-4eb7-a12e-f64a" name="Union Lieutenant" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="3870-6d20-d82c-6522" name="Union Lieutenant" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">6</characteristic>
+            <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">6</characteristic>
+            <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+            <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">7</characteristic>
+            <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">6</characteristic>
+            <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">8&quot;</characteristic>
+            <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">1</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="9bf4-564c-1370-c0b1" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="933b-a603-6760-38db" name="Pistol (BL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">10&quot;</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Reroll failed Melee tests.
+When they are Breechloader Repeaters, they can shoot multiple times each turn and do  not gain Reload markers.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="cc51-7e60-894f-ce93" name="True Grit" hidden="false">
+          <description>May reroll failed results during Melee Save tests.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="3483-4ae3-b42f-fde4" name="Union Captain" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="223f-b043-12ac-7e70" name="Union Captain" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">6</characteristic>
+            <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">6</characteristic>
+            <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+            <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">7</characteristic>
+            <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">6</characteristic>
+            <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">8&quot;</characteristic>
+            <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">2</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="1814-7cfe-1c4f-5e53" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="d92a-6088-2e2f-c08b" name="Pistol (BL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">10&quot;</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Reroll failed Melee tests.
+When they are Breechloader Repeaters, they can shoot multiple times each turn and do  not gain Reload markers.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="168b-db1c-3ac7-001c" name="True Grit" hidden="false">
+          <description>May reroll failed results during Melee Save tests.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e2c4-625a-5146-3263" name="Union Major" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="6476-5e72-15e1-d686" name="Union Major" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">6</characteristic>
+            <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">6</characteristic>
+            <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+            <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">7</characteristic>
+            <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">6</characteristic>
+            <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">12&quot;</characteristic>
+            <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">2</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="53cb-aa6b-aaae-73da" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="2001-140d-9273-e43f" name="Pistol (BL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">10&quot;</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Reroll failed Melee tests.
+When they are Breechloader Repeaters, they can shoot multiple times each turn and do  not gain Reload markers.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="b2a4-e569-8fe3-135f" name="True Grit" hidden="false">
+          <description>May reroll failed results during Melee Save tests.</description>
+        </rule>
+        <rule id="bab0-c6f8-6f9f-adbd" name="Tactician" hidden="false">
+          <description>After resolving the Calamity and Fortune step of the Initiative Phase, this leader’s player may change the value of 1 Initiative Die up or down by one.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="25.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="82ba-7f55-ab64-8765" name="Major James Cavanagh" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="7c65-3161-52b8-24b9" name="James Cavanagh" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">6</characteristic>
+            <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">6</characteristic>
+            <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+            <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">7</characteristic>
+            <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">5</characteristic>
+            <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">12&quot;</characteristic>
+            <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">2</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="6e8c-c566-d812-4383" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="9150-22e3-8c89-74aa" name="Pistol (BL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">10&quot;</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Reroll failed Melee tests.
+When they are Breechloader Repeaters, they can shoot multiple times each turn and do  not gain Reload markers.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="fa8c-4520-dbd1-bbce" name="True Grit" hidden="false">
+          <description>May reroll failed results during Melee Save tests.</description>
+        </rule>
+        <rule id="f92c-0c3a-afa1-d613" name="Tactician" hidden="false">
+          <description>After resolving the Calamity and Fortune step of the Initiative Phase, this leader’s player may change the value of 1 Initiative Die up or down by one.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="30.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e593-a340-5acb-2ced" name="Union Troops" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="fee4-cdc3-be47-b6fe" name="Drilled" hidden="false">
+          <description>If all the models in a unit of 5 or more models with this trait are in base to base contact with each other, the unit is considered to be In Formation. While In Formation, the unit gains the Big Target trait, the Intimidating trait, and a -1 bonus to its Melee Save tests. When the unit includes a Non-Commissioned Officer, it also gains a -1 bonus to its Resolve tests.</description>
+        </rule>
+        <rule id="9e03-5005-af9f-19fd" name="True Grit" hidden="false">
+          <description>May reroll failed results during Melee Save tests.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="15ee-5a45-35f2-4fdb" name="Troops" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="96d2-164f-5c54-b9b0" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="970b-c02b-f42b-a79d" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="9287-e36f-1349-4629" name="Infantry" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="18b5-22bc-038f-4877" name="Smoothbore Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">30&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="5.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="f60b-791d-8a08-b071" name="Union Troops (Rifled Muskets)" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="781b-959e-f5d4-3f4a" name="Drilled" hidden="false">
+          <description>If all the models in a unit of 5 or more models with this trait are in base to base contact with each other, the unit is considered to be In Formation. While In Formation, the unit gains the Big Target trait, the Intimidating trait, and a -1 bonus to its Melee Save tests. When the unit includes a Non-Commissioned Officer, it also gains a -1 bonus to its Resolve tests.</description>
+        </rule>
+        <rule id="a1c4-57c5-f1a3-30e2" name="True Grit" hidden="false">
+          <description>May reroll failed results during Melee Save tests.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="381c-9add-7c7e-2246" name="Troops" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a845-72fe-e3ba-2f68" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="255e-1288-b340-0cb4" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="173f-d41f-103f-01a0" name="Infantry" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">6</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="046b-3c11-1ff7-516f" name="Rifled Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">40&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.
+</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="6.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5518-8516-e90b-d532" name="Union Militia" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="b0f5-d4a5-3775-b50f" name="Militia" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e526-4cd1-42e5-bb7e" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="12c1-ec1b-9f2e-7b1a" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="b70f-08dd-0472-3436" name="Militia" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="fda0-cdeb-007a-04a3" name="Smoothbore Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">30&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="3.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="52f9-4c73-d8e7-44ae" name="Union Militia (Rifled Muskets)" hidden="false" collective="false" import="true" type="unit">
+      <selectionEntries>
+        <selectionEntry id="6779-17e5-0a32-6c3f" name="Militia" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="da4b-33a3-902c-8283" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ae20-59a9-bac7-6e2f" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="8ff9-3e5f-ff60-86f0" name="Militia" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="ea9d-b95b-fda5-e7b8" name="Rifled Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">40&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.
+</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="4.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="0ea3-c893-779a-03cc" name="Union Veterans" hidden="false" collective="false" import="true" type="unit">
+      <modifiers>
+        <modifier type="set" field="55cb-e2a7-28ad-0d27" value="0.0">
+          <conditions>
+            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="a4af-09be-2b52-ef25" type="equalTo"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="55cb-e2a7-28ad-0d27" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="091b-6558-cd16-2cfe" name="Drilled" hidden="false">
+          <description>If all the models in a unit of 5 or more models with this trait are in base to base contact with each other, the unit is considered to be In Formation. While In Formation, the unit gains the Big Target trait, the Intimidating trait, and a -1 bonus to its Melee Save tests. When the unit includes a Non-Commissioned Officer, it also gains a -1 bonus to its Resolve tests.</description>
+        </rule>
+        <rule id="8b12-3037-cb13-3a89" name="Ruthless" hidden="false">
+          <description>Unit gains a -1 bonus to Shoot and Melee tests if this unit has fewer Fatigue Points than its target.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="6e8a-4ba5-b401-04e3" name="Veterans" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="327c-1610-8298-f9f5" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8047-1a15-f298-2378" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="a29d-3816-31aa-17ba" name="Veteran" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">5</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="b7ee-aeee-001c-08c7" name="Smoothbore Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">30&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="6.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a4af-09be-2b52-ef25" name="Union Veterans (Rifle Muskets)" hidden="false" collective="false" import="true" type="unit">
+      <modifiers>
+        <modifier type="set" field="8cb5-c504-70bd-c18d" value="0.0">
+          <conditions>
+            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="0ea3-c893-779a-03cc" type="equalTo"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8cb5-c504-70bd-c18d" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="3173-65c4-f3b3-4bd9" name="Drilled" hidden="false">
+          <description>If all the models in a unit of 5 or more models with this trait are in base to base contact with each other, the unit is considered to be In Formation. While In Formation, the unit gains the Big Target trait, the Intimidating trait, and a -1 bonus to its Melee Save tests. When the unit includes a Non-Commissioned Officer, it also gains a -1 bonus to its Resolve tests.</description>
+        </rule>
+        <rule id="c8f2-a50c-0a04-0b82" name="Ruthless" hidden="false">
+          <description>Unit gains a -1 bonus to Shoot and Melee tests if this unit has fewer Fatigue Points than its target.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="4af9-a4e2-08e3-3461" name="Veterans" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bec8-f869-74ce-66a5" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0636-93e7-6943-8f3c" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="0716-82c1-878e-d066" name="Veteran" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">5</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="c889-24f2-0231-b05c" name="Rifled Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">40&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.
+</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="7.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4f14-4c29-d9dc-e708" name="14th Brooklyn" hidden="false" collective="false" import="true" type="unit">
+      <modifiers>
+        <modifier type="set" field="baf4-2a8a-b4c2-1912" value="0.0">
+          <conditions>
+            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="e3ca-733f-fe62-b179" type="equalTo"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="baf4-2a8a-b4c2-1912" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="484b-ef00-7a28-088b" name="Drilled" hidden="false">
+          <description>If all the models in a unit of 5 or more models with this trait are in base to base contact with each other, the unit is considered to be In Formation. While In Formation, the unit gains the Big Target trait, the Intimidating trait, and a -1 bonus to its Melee Save tests. When the unit includes a Non-Commissioned Officer, it also gains a -1 bonus to its Resolve tests.</description>
+        </rule>
+        <rule id="29e1-c50c-e5a5-31c9" name="Ruthless" hidden="false">
+          <description>Unit gains a -1 bonus to Shoot and Melee tests if this unit has fewer Fatigue Points than its target.</description>
+        </rule>
+        <rule id="905c-844c-20fc-0b96" name="Assault" hidden="false">
+          <description>May reroll all failed results during Shoot Saves from Defensive Fire.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="e07f-63dc-70d1-faaf" name="Brooklyn Infantry" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a183-957e-0062-1978" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6be3-5dca-4893-18ed" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="9193-c41f-8abd-4602" name="Brooklyn Infantry" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">5</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="94a9-708b-b371-db58" name="Smoothbore Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">30&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="7.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e3ca-733f-fe62-b179" name="14th Brooklyn (Rifled Muskets)" hidden="false" collective="false" import="true" type="unit">
+      <modifiers>
+        <modifier type="set" field="702c-c821-e0a6-26f0" value="0.0">
+          <conditions>
+            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="4f14-4c29-d9dc-e708" type="equalTo"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="702c-c821-e0a6-26f0" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="c33e-0c56-63e6-b133" name="Drilled" hidden="false">
+          <description>If all the models in a unit of 5 or more models with this trait are in base to base contact with each other, the unit is considered to be In Formation. While In Formation, the unit gains the Big Target trait, the Intimidating trait, and a -1 bonus to its Melee Save tests. When the unit includes a Non-Commissioned Officer, it also gains a -1 bonus to its Resolve tests.</description>
+        </rule>
+        <rule id="da5c-edf3-c5e3-5119" name="Ruthless" hidden="false">
+          <description>Unit gains a -1 bonus to Shoot and Melee tests if this unit has fewer Fatigue Points than its target.</description>
+        </rule>
+        <rule id="804c-e00a-c3ca-c328" name="Assault" hidden="false">
+          <description>May reroll all failed results during Shoot Saves from Defensive Fire.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="684e-01f1-5c68-5c3d" name="Brooklyn Infantry" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="31fd-0eb6-05b0-e459" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="23fe-668f-9828-eb86" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="2ce5-2cda-d316-8b1c" name="Brooklyn Infantry" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">5</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="daba-a2ae-64f6-3b8f" name="Rifled Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">40&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.
+</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="7.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="dd99-daef-0438-a3ce" name="U.S. Marines" hidden="false" collective="false" import="true" type="unit">
+      <modifiers>
+        <modifier type="set" field="377a-6fb6-bd5a-85b1" value="0.0">
+          <conditions>
+            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="8e06-8f11-2df6-291a" type="equalTo"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="377a-6fb6-bd5a-85b1" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="9a9a-2ddd-4b6f-4113" name="Drilled" hidden="false">
+          <description>If all the models in a unit of 5 or more models with this trait are in base to base contact with each other, the unit is considered to be In Formation. While In Formation, the unit gains the Big Target trait, the Intimidating trait, and a -1 bonus to its Melee Save tests. When the unit includes a Non-Commissioned Officer, it also gains a -1 bonus to its Resolve tests.</description>
+        </rule>
+        <rule id="9dbd-3e2d-a4ca-65d9" name="Steadfast" hidden="false">
+          <description>Unit may reroll failed Resolve tests results.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="291f-8638-18a1-edf7" name="Marines" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c990-cd0c-75e0-1961" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c588-1739-23bb-9fc6" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="cdbd-f03d-d431-3de0" name="Marines" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">6</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="383f-42ad-29d7-c1ef" name="Smoothbore Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">30&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="6.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="8e06-8f11-2df6-291a" name="U.S. Marines (Rifled Muskets)" hidden="false" collective="false" import="true" type="unit">
+      <modifiers>
+        <modifier type="set" field="1666-85da-9049-b1b2" value="0.0">
+          <conditions>
+            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="dd99-daef-0438-a3ce" type="equalTo"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1666-85da-9049-b1b2" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="09ce-c88f-8c94-5479" name="Drilled" hidden="false">
+          <description>If all the models in a unit of 5 or more models with this trait are in base to base contact with each other, the unit is considered to be In Formation. While In Formation, the unit gains the Big Target trait, the Intimidating trait, and a -1 bonus to its Melee Save tests. When the unit includes a Non-Commissioned Officer, it also gains a -1 bonus to its Resolve tests.</description>
+        </rule>
+        <rule id="ff04-8318-5dae-64db" name="Steadfast" hidden="false">
+          <description>Unit may reroll failed Resolve tests results.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="75e8-4535-ad23-75d2" name="Marines" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="afde-8ff6-88b9-6e00" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a19e-a628-a465-01a4" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="b9be-e948-5c2a-0fc3" name="Marines" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">6</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="ac22-f89c-a586-18d1" name="Rifled Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">40&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.
+</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="7.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a93a-4174-4fdf-d799" name="Union Sharpshooter" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="4021-9cab-446e-2e72" name="Sharpshooter" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">5</characteristic>
+            <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">7</characteristic>
+            <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">5</characteristic>
+            <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+            <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="c9b6-9cb6-60b1-8fc1" name="Rifled Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">40&quot;</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.
+</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="6063-d815-b781-872f" name="Hidden Setup" hidden="false">
+          <description>When the unit begins the game deployed, it cannot be attacked until it moves or shoots.</description>
+        </rule>
+        <rule id="f88c-4c6c-f287-1e79" name="Marksman" hidden="false">
+          <description>This unit may target specific models within range and line of sight when shooting. If any hits are scored, the targeted model must perform the Shoot Save test, and is removed as a casualty if it fails.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="7.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e870-421b-5854-3fa6" name="Union Artillery" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="ba37-4b9b-c895-a4a9" name="Intimidating" hidden="false">
+          <description>Opponents hit by this unit must add an extra 1d10 to the Resolve test.</description>
+        </rule>
+        <rule id="deaf-513b-c583-7226" name="Slow Reload" hidden="false">
+          <description>This unit receives 2 Reload markers after shooting.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="d9bf-489a-6cf4-47fc" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="0363-773a-7733-2591" name="Artillery Crew" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="60ce-f3a2-cf72-76a2" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ae68-4432-4db7-3b27" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="6647-b6b8-f7cf-14ab" name="Artillery Crew" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">6</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">7</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">5</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="243f-d3b5-5db6-8adc" name="Artillery" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Unlimited</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">6d10 for Shoot tests, each natural 10 rolled yields an additional d10 roll to hit.
+Gain two Reload markers after shooting. Cannot Move and  Shoot. 90 degree arc of fire. Intimidating.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="30.0"/>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1a46-24f5-c0a7-aad3" name="Non-Commissioned Officer" hidden="false" collective="false" import="true" type="unit">
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8300-2c60-ca6f-3e97" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="e5c5-a643-6fc6-df23" name="Non-Commissioned Officer" hidden="false">
+          <description>Designate a single model to be a Non-Commissioned Officer (NCO).
+The NCO’s unit counts as being in command range as long as this model is still part of it.
+A formed unit with an NCO gains a -1 bonus to its Resolve.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="24db-15f7-e362-98b7" name="New CategoryLink" hidden="false" targetId="0389-64d4-2bab-e128" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="5.0"/>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5d24-b4db-2bb5-69ff" name="Musician" hidden="false" collective="false" import="true" type="unit">
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9335-7e8d-59fe-a0c6" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="9646-9a23-a1c2-ac91" name="Musician" hidden="false">
+          <description>Add a single model to the Leader Unit to act as a Musician.
+The Leader’s command range is doubled while this model is part of the unit.
+Armed as modeled.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="ca92-6365-aaf9-0743" name="New CategoryLink" hidden="false" targetId="0389-64d4-2bab-e128" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="10.0"/>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="9c19-f123-3e85-0970" name="Union Cavalry (Repeater Pistol)" hidden="false" collective="false" import="true" type="unit">
+      <modifiers>
+        <modifier type="set" field="35d6-0bdd-69b3-ca1d" value="0.0">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="c408-0a20-91d6-2359" type="equalTo"/>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="17c2-1006-802c-0f32" type="equalTo"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="35d6-0bdd-69b3-ca1d" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="0522-fb1f-5f0c-0831" name="Cavalry" hidden="false">
+          <description>May take a free Advance action at any point during their activation. Mounted units suffer a +1 penalty to their Shoot Save and Shoot skills. This unit may mount or dismount as part of an Advance action. One model may be used as a horse holder after dismounting. Otherwise, the horses leave the battlefield and the unit loses this trait for the rest of the game. Horses can also be used as Hard Cover when taking the Take Cover action and the unit loses this trait as they cannot mount again when the horses are removed from the game.</description>
+        </rule>
+        <rule id="d58d-30c6-7ff9-bdc2" name="Blood Curdling Charge" hidden="false">
+          <description> -1 to Melee test during Charge actions while mounted.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="8f6d-2100-369a-130e" name="Cavalry" hidden="false" collective="false" import="true" type="model">
+          <profiles>
+            <profile id="4678-da15-b480-8804" name="Cavalry (Mounted)" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">7</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">6</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="1288-558c-5d9e-b491" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="43d3-834b-97e0-d9f1" name="Cavalry (Dismounted)" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">6</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="20d6-dc40-884e-4acc" name="Pistol (BL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">10&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Reroll failed Melee tests.
+When they are Breechloader Repeaters, they can shoot multiple times each turn and do  not gain Reload markers.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="6.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="c408-0a20-91d6-2359" name="Union Cavalry (BL Carbine)" hidden="false" collective="false" import="true" type="unit">
+      <modifiers>
+        <modifier type="set" field="e888-fea6-9700-4a45" value="0.0">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="17c2-1006-802c-0f32" type="equalTo"/>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="9c19-f123-3e85-0970" type="equalTo"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e888-fea6-9700-4a45" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="3ec5-8aa5-65be-87f7" name="Cavalry" hidden="false">
+          <description>May take a free Advance action at any point during their activation. Mounted units suffer a +1 penalty to their Shoot Save and Shoot skills. This unit may mount or dismount as part of an Advance action. One model may be used as a horse holder after dismounting. Otherwise, the horses leave the battlefield and the unit loses this trait for the rest of the game. Horses can also be used as Hard Cover when taking the Take Cover action and the unit loses this trait as they cannot mount again when the horses are removed from the game.</description>
+        </rule>
+        <rule id="a823-4b13-e9e0-752e" name="Blood Curdling Charge" hidden="false">
+          <description> -1 to Melee test during Charge actions while mounted.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="5b72-d902-f036-407a" name="Cavalry" hidden="false" collective="false" import="true" type="model">
+          <profiles>
+            <profile id="f378-e2bd-49ef-45d1" name="Cavalry (Mounted)" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">7</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">6</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="1d27-718f-fe75-6526" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="4001-19fd-4a66-3a00" name="Cavalry (Dismounted)" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">6</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="291a-5234-33f9-75f5" name="Carbine (BL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">30&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">No Reload marker after shooting.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="8.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="17c2-1006-802c-0f32" name="Union Cavalry" hidden="false" collective="false" import="true" type="unit">
+      <modifiers>
+        <modifier type="set" field="2b0a-f9bf-3574-ab22" value="0.0">
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="9c19-f123-3e85-0970" type="equalTo"/>
+                <condition field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="c408-0a20-91d6-2359" type="equalTo"/>
+              </conditions>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2b0a-f9bf-3574-ab22" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="4328-1333-fde1-9bdc" name="Cavalry" hidden="false">
+          <description>May take a free Advance action at any point during their activation. Mounted units suffer a +1 penalty to their Shoot Save and Shoot skills. This unit may mount or dismount as part of an Advance action. One model may be used as a horse holder after dismounting. Otherwise, the horses leave the battlefield and the unit loses this trait for the rest of the game. Horses can also be used as Hard Cover when taking the Take Cover action and the unit loses this trait as they cannot mount again when the horses are removed from the game.</description>
+        </rule>
+        <rule id="8501-3700-e5a2-990d" name="Blood Curdling Charge" hidden="false">
+          <description> -1 to Melee test during Charge actions while mounted.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="73df-79f9-2004-b4a6" name="Cavalry" hidden="false" collective="false" import="true" type="model">
+          <profiles>
+            <profile id="0150-6819-96fd-1ca9" name="Cavalry (Mounted)" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">8</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">7</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">6</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="ff74-9f3e-c49a-05a0" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="e79b-593c-101f-2d8c" name="Cavalry (Dismounted)" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="79d6-f93b-4d06-e9d8" name="Carbine (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">30&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="7.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+</catalogue>

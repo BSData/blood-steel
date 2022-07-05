@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="65a5-1ade-3cd0-332d" name="Spanish-American War (1898) Spanish Army" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="3eb5-b432-c9db-d045" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="e204-0e25-c764-dcde" name="Capitan Angel Rivero" hidden="false" collective="false" import="true" targetId="ce14-c307-49d9-0417" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="002a-d1c4-8cfe-aeae" name="New CategoryLink" hidden="false" targetId="3185-bbe6-86ce-96a4" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="960d-e3d4-5b0a-a4a3" name="Colonial Infantry" hidden="false" collective="false" import="true" targetId="b6cc-22af-43e7-3a32" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d408-ddd1-1a18-92f4" name="New CategoryLink" hidden="false" targetId="fe26-ffb2-897a-7556" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7bbc-6837-a35d-042f" name="Teniente" hidden="false" collective="false" import="true" targetId="5492-17c5-6afc-6e91" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="29c2-c612-f8da-e6d0" name="New CategoryLink" hidden="false" targetId="3185-bbe6-86ce-96a4" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0497-23fa-4530-0f01" name="Francotirador (Sharpshooter)" hidden="false" collective="false" import="true" targetId="1115-4f27-35e2-9994" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="dd27-b411-9771-a29d" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8f92-1cb2-bdfc-df92" name="Musician" hidden="false" collective="false" import="true" targetId="6226-e519-9996-46ae" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="a0a8-8391-f323-9922" name="New CategoryLink" hidden="false" targetId="0389-64d4-2bab-e128" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7105-2e96-3781-0a23" name="Sargento Primero" hidden="false" collective="false" import="true" targetId="1e64-77f1-510e-b141" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="8e96-89b6-4a8f-73bc" name="New CategoryLink" hidden="false" targetId="0389-64d4-2bab-e128" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f9a5-a249-4f15-3361" name="Spanish Soldiers" hidden="false" collective="false" import="true" targetId="97b5-3a4f-f7ff-89e2" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="4051-8000-73fc-594d" name="New CategoryLink" hidden="false" targetId="fe26-ffb2-897a-7556" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2966-67b2-a458-5e04" name="Cuban Volunteers" hidden="false" collective="false" import="true" targetId="4024-790a-51b4-93b7" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="de9d-f89d-1646-62eb" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="7b3b-f244-ef6c-067c" name="Spanish Artillery" hidden="false" collective="false" import="true" targetId="e6e8-0d80-b7fe-a069" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="1f93-3bcf-fd71-6632" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="8ab6-e3ee-28a1-5eaf" name="Comandante" hidden="false" collective="false" import="true" targetId="5bf5-549c-1c3a-324d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="2065-511a-cb14-e753" name="New CategoryLink" hidden="false" targetId="fe26-ffb2-897a-7556" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="f8c6-2a1a-a933-0692" name="Capitan" hidden="false" collective="false" import="true" targetId="ac07-49f7-4a10-5664" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="02a4-82c2-6f7a-1126" name="New CategoryLink" hidden="false" targetId="3185-bbe6-86ce-96a4" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <rules>
+    <rule id="8ae5-8322-ac67-6502" name="National Trait - Que Viva El Nino Rey!" hidden="false">
+      <description>Individual Spanish Soldiers units may reroll their first Rally attempt of the game.</description>
+    </rule>
+  </rules>
+  <sharedSelectionEntries>
+    <selectionEntry id="5492-17c5-6afc-6e91" name="Teniente" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="e560-2dda-68ef-6526" name="Teniente" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">6</characteristic>
+            <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">6</characteristic>
+            <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+            <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">7</characteristic>
+            <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">6</characteristic>
+            <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">8&quot;</characteristic>
+            <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">1</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="16b5-fe2d-2091-c387" name="Pistol (BL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">10&quot;</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Reroll failed Melee tests.
+When they are Breechloader Repeaters, they can shoot multiple times each turn and do  not gain Reload markers.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="aac7-c51e-4c21-2850" name="Cautious" hidden="false">
+          <description>Must give Rally orders to Shaken units when possible.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ac07-49f7-4a10-5664" name="Capitan" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="37ed-a70f-59c3-534d" name="Capitan" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">6</characteristic>
+            <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">6</characteristic>
+            <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+            <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">7</characteristic>
+            <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">6</characteristic>
+            <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">8&quot;</characteristic>
+            <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">2</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="e6b7-8d1e-3d1c-d5e9" name="Pistol (BL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">10&quot;</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Reroll failed Melee tests.
+When they are Breechloader Repeaters, they can shoot multiple times each turn and do  not gain Reload markers.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="4cef-fa9b-5066-b7f8" name="Cautious" hidden="false">
+          <description>Must give Rally orders to Shaken units when possible.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="15.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5bf5-549c-1c3a-324d" name="Comandante" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="5282-3a62-5db8-332b" name="Comandante" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">6</characteristic>
+            <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">6</characteristic>
+            <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+            <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">7</characteristic>
+            <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">6</characteristic>
+            <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">12&quot;</characteristic>
+            <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">2</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="e739-bc11-1d9e-bd79" name="Pistol (BL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">10&quot;</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Reroll failed Melee tests.
+When they are Breechloader Repeaters, they can shoot multiple times each turn and do  not gain Reload markers.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="d401-61c5-e89b-f5d6" name="Tactician" hidden="false">
+          <description>After resolving the Calamity and Fortune step of the Initiative Phase, this leader’s player may change the value of 1 Initiative Die up or down by one.</description>
+        </rule>
+        <rule id="ddd6-7462-3be4-6c4a" name="Cautious" hidden="false">
+          <description>Must give Rally orders to Shaken units when possible.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="25.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="ce14-c307-49d9-0417" name="Capitan Angel Rivero" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="39f2-1d45-2503-5061" name="Angel Rivero" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">6</characteristic>
+            <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">6</characteristic>
+            <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+            <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">7</characteristic>
+            <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">5</characteristic>
+            <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">12&quot;</characteristic>
+            <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">2</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="6330-88f4-22a4-1318" name="Pistol (BL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">10&quot;</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Reroll failed Melee tests.
+When they are Breechloader Repeaters, they can shoot multiple times each turn and do  not gain Reload markers.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="177f-2b3e-e28c-5c03" name="Cautious" hidden="false">
+          <description>Must give Rally orders to Shaken units when possible.</description>
+        </rule>
+        <rule id="cc9f-7bbb-3c23-e0be" name="Inspiring" hidden="false">
+          <description>Units in command may reroll failed Rally tests during this Leader’s activation</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="2.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="35.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="97b5-3a4f-f7ff-89e2" name="Spanish Soldiers" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="236c-ce37-3e0f-56ba" name="Drilled" hidden="false">
+          <description>If all the models in a unit of 5 or more models with this trait are in base to base contact with each other, the unit is considered to be In Formation. While In Formation, the unit gains the Big Target trait, the Intimidating trait, and a -1 bonus to its Melee Save tests. When the unit includes a Non-Commissioned Officer, it also gains a -1 bonus to its Resolve tests.</description>
+        </rule>
+        <rule id="d511-f5db-e277-b8d1" name="True Grit" hidden="false">
+          <description>May reroll failed results during Melee Save tests.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="0f62-5611-b2a5-9b91" name="Spanish Soldier" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4598-02c3-084f-7226" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="37af-0125-7ab4-4003" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="37a3-c92f-ff18-072e" name="Rifle (ABL Repeater)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Unlimited</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">No Reload marker after shooting.</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="bb24-6a72-a8a4-b855" name="Soldier" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">6</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="6.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="b6cc-22af-43e7-3a32" name="Colonial Infantry" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="2deb-b2aa-9d98-efac" name="Drilled" hidden="false">
+          <description>If all the models in a unit of 5 or more models with this trait are in base to base contact with each other, the unit is considered to be In Formation. While In Formation, the unit gains the Big Target trait, the Intimidating trait, and a -1 bonus to its Melee Save tests. When the unit includes a Non-Commissioned Officer, it also gains a -1 bonus to its Resolve tests.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="1c06-4a26-ee98-9f87" name="Colonial Infantry" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9a40-4db3-6109-aa24" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6085-e5a8-cdd5-c720" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="3e48-5b51-0185-1215" name="Infantry" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">6</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">7</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="5f1e-d31c-50e6-35ed" name="Rifle (ABL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Unlimited</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">No Reload marker after shooting.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="4.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1115-4f27-35e2-9994" name="Francotirador (Sharpshooter)" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="c94e-fb6e-4d4d-12db" name="Sharpshooter" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">5</characteristic>
+            <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">7</characteristic>
+            <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">5</characteristic>
+            <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+            <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="47ba-c339-a8e9-9df0" name="Rifle (ABL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Unlimited</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">No Reload marker after shooting.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="f6a7-cbe9-1fc4-2cf7" name="Hidden Setup" hidden="false">
+          <description>When the unit begins the game deployed, it cannot be attacked until it moves or shoots.</description>
+        </rule>
+        <rule id="5873-e9c1-d158-c8e1" name="Marksman" hidden="false">
+          <description>This unit may target specific models within range and line of sight when shooting. If any hits are scored, the targeted model must perform the Shoot Save test, and is removed as a casualty if it fails.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="7.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="4024-790a-51b4-93b7" name="Cuban Volunteers" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="2574-279b-08d6-fdfb" name="Large Unit" hidden="false">
+          <description>This unit may have up to 10 models.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="b096-fa49-7fb7-6e09" name="Cuban Volunteer" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="10.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3fcd-15c8-f65b-7922" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ace6-fd23-ba96-bf13" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="0941-3860-97cd-2830" name="Volunteer" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">7</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="acbf-92a7-7f77-3938" name="Rifle (ABL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Unlimited</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">No Reload marker after shooting.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="3.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="e6e8-0d80-b7fe-a069" name="Spanish Artillery" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="82ae-6426-0c34-9c89" name="Intimidating" hidden="false">
+          <description>Opponents hit by this unit must add an extra 1d10 to the Resolve test.</description>
+        </rule>
+        <rule id="2cec-99a5-e521-a1ed" name="Quick Reload" hidden="false">
+          <description>This unit receives 1 Reload marker after shooting.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="423d-6622-abd3-5524" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="51d2-520a-51fb-d525" name="Artillery Crew" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7aee-fdfc-85d9-4a7e" type="max"/>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6007-fc11-edd0-ce00" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="7859-ee8a-4201-ab54" name="Artillery Crew" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">6</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">7</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">5</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="92c2-1b96-3712-c722" name="Artillery" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Unlimited</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">6d10 for Shoot tests, each natural 10 rolled yields an additional d10 roll to hit.
+Gain two Reload markers after shooting. Cannot Move and  Shoot. 90 degree arc of fire. Intimidating.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="30.0"/>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1e64-77f1-510e-b141" name="Sargento Primero" hidden="false" collective="false" import="true" type="unit">
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7f7b-c5c6-7322-6ee6" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="d4bb-3229-ce53-287a" name="Sargento Primero" hidden="false">
+          <description>Designate a single model to be a Non-Commissioned Officer (NCO).
+The NCO’s unit counts as being in command range as long as this model is still part of it.
+A formed unit with an NCO gains a -1 bonus to its Resolve.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="1c3a-7429-4911-cfc9" name="New CategoryLink" hidden="false" targetId="0389-64d4-2bab-e128" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="5.0"/>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="6226-e519-9996-46ae" name="Musician" hidden="false" collective="false" import="true" type="unit">
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="57e7-1c89-b7a1-21ef" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="6bf9-03a3-85c9-804e" name="Musician" hidden="false">
+          <description>Add a single model to the Leader Unit to act as a Musician.
+The Leader’s command range is doubled while this model is part of the unit.
+Armed as modeled.</description>
+        </rule>
+      </rules>
+      <categoryLinks>
+        <categoryLink id="c9cf-fda6-494a-90b8" name="New CategoryLink" hidden="false" targetId="0389-64d4-2bab-e128" primary="true"/>
+      </categoryLinks>
+      <costs>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="10.0"/>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+</catalogue>

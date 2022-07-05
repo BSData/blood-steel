@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="4982-b2e5-d462-10ce" name="Anglo-Zulu War (1879) Zulu" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="3eb5-b432-c9db-d045" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entryLinks>
+    <entryLink id="4761-e7a7-a04d-4092" name="Married Zulu Warriors" hidden="false" collective="false" import="true" targetId="5982-c63b-42d6-034c" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="65e1-1b9c-18b1-f8c8" name="New CategoryLink" hidden="false" targetId="fe26-ffb2-897a-7556" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="aeb4-1253-e03e-9a26" name="Dabulamanzi Kampande" hidden="false" collective="false" import="true" targetId="d4db-a357-56e0-6044" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="50d6-c35a-a56f-6a94" name="New CategoryLink" hidden="false" targetId="3185-bbe6-86ce-96a4" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="2ee2-379b-f9b9-435f" name="Zulu Warriors with Muskets" hidden="false" collective="false" import="true" targetId="bfb6-c95a-b939-b248" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d1cd-e105-1f73-3368" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="0418-7501-8ef1-96d4" name="Unmarried Zulu Warriors" hidden="false" collective="false" import="true" targetId="35e0-5c04-8db9-944d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="d181-bceb-3dd7-5893" name="New CategoryLink" hidden="false" targetId="fe26-ffb2-897a-7556" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="3765-c31a-d882-feee" name="Royal Guard Warriors" hidden="false" collective="false" import="true" targetId="a74c-05d5-5e77-dbd4" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="e16f-b6e7-0b11-a756" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="da7e-75b0-14c5-4170" name="Zulu Induna (Second)" hidden="false" collective="false" import="true" targetId="1a78-e146-4408-ecac" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="3341-dd5d-eed7-daf7" name="New CategoryLink" hidden="false" targetId="0389-64d4-2bab-e128" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="c8e5-4cb3-c809-4078" name="Zulu Induna" hidden="false" collective="false" import="true" targetId="04e4-27b7-1a16-538d" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="37c1-8797-693d-7ff7" name="New CategoryLink" hidden="false" targetId="3185-bbe6-86ce-96a4" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+    <entryLink id="e04c-7195-14f4-426a" name="Zulu Warriors with Rifles" hidden="false" collective="false" import="true" targetId="35b4-c1fb-c6a1-e4fd" type="selectionEntry">
+      <categoryLinks>
+        <categoryLink id="acd3-2a8c-92da-dc8c" name="New CategoryLink" hidden="false" targetId="5c7e-0dec-8c5c-c7c8" primary="true"/>
+      </categoryLinks>
+    </entryLink>
+  </entryLinks>
+  <rules>
+    <rule id="352b-598a-83a8-7d2b" name="National Trait - Horns of the Buffalo" hidden="false">
+      <description>A Zulu Force may have a subordinate second Induna leader for 10 points. Zulus taking a Run to Ground action when they already have a Run marker gain Fatigue only if they fail a 1d10 Resolve test.</description>
+    </rule>
+  </rules>
+  <sharedSelectionEntries>
+    <selectionEntry id="04e4-27b7-1a16-538d" name="Zulu Induna" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="6557-0ee3-96b0-ed34" name="Zulu Induna" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">-</characteristic>
+            <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">5</characteristic>
+            <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+            <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">6</characteristic>
+            <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">5</characteristic>
+            <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">8</characteristic>
+            <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">1</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="31e7-fe23-044c-08a1" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="2ab2-0b89-733a-ad46" name="Thrown Weapons" hidden="false">
+          <description>A unit armed with thrown weapons may reroll all of their failed Melee rolls made when taking a Charge action.</description>
+        </rule>
+        <rule id="ea73-1f33-6069-d115" name="Inspiring" hidden="false">
+          <description>Units in command may reroll failed Rally tests during this Leader’s activation</description>
+        </rule>
+        <rule id="2c47-58b3-6310-967d" name="Assault" hidden="false">
+          <description>May reroll all failed results during Shoot Saves from Defensive Fire.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="1a78-e146-4408-ecac" name="Zulu Induna (Second)" hidden="false" collective="false" import="true" type="unit">
+      <profiles>
+        <profile id="8f64-08a1-72d1-c166" name="Zulu Induna" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+            <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">-</characteristic>
+            <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">5</characteristic>
+            <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+            <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">6</characteristic>
+            <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">5</characteristic>
+            <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">8</characteristic>
+            <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">1</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="2992-a714-637f-61e2" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+          <characteristics>
+            <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+            <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <rules>
+        <rule id="7cd6-264d-022c-57f0" name="Thrown Weapons" hidden="false">
+          <description>A unit armed with thrown weapons may reroll all of their failed Melee rolls made when taking a Charge action.</description>
+        </rule>
+        <rule id="1072-956d-ee90-63c6" name="Inspiring" hidden="false">
+          <description>Units in command may reroll failed Rally tests during this Leader’s activation</description>
+        </rule>
+        <rule id="cc63-c8a9-1e90-cd8c" name="Assault" hidden="false">
+          <description>May reroll all failed results during Shoot Saves from Defensive Fire.</description>
+        </rule>
+      </rules>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="10.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="d4db-a357-56e0-6044" name="Dabulamanzi Kampande" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="6680-ba4d-e2c4-d0fe" name="Glory Hound" hidden="false">
+          <description>Must give a Charge order to units in command and Charge range of an opposing unit when this unit is activated.</description>
+        </rule>
+        <rule id="bc1b-a172-1390-200c" name="Tactician" hidden="false">
+          <description>After resolving the Calamity and Fortune step of the Initiative Phase, this leader’s player may change the value of 1 Initiative Die up or down by one.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="13c3-6c68-fc70-afe2" name="Dabulamanzi Kampande" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b707-4bd0-626b-ecde" type="max"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7a33-ea80-e1d8-b993" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="c620-291b-4d9d-7d27" name="Dabulamanzi Kampande" hidden="false" typeId="3332-b503-9905-37d2" typeName="Leader Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="83e2-b712-3bb5-300c">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="b303-a47d-19b6-7016">8</characteristic>
+                <characteristic name="Melee" typeId="b673-9078-b9b7-ada9">5</characteristic>
+                <characteristic name="Shoot Save" typeId="6e89-b424-f70e-080d">5</characteristic>
+                <characteristic name="Melee Save" typeId="d2e5-53a0-b6d7-1361">6</characteristic>
+                <characteristic name="Resolve" typeId="b5c9-557a-a243-48a8">5</characteristic>
+                <characteristic name="Command Range" typeId="b4e1-6d29-7a02-16ed">12</characteristic>
+                <characteristic name="Command Points" typeId="48a9-a289-19fd-69e4">2</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+          </costs>
+        </selectionEntry>
+        <selectionEntry id="5531-b4cf-3043-6a21" name="Royal Guard" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3ce3-d51a-19d4-efaa" type="max"/>
+            <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="fad0-7673-80e2-2753" type="min"/>
+          </constraints>
+          <profiles>
+            <profile id="d59f-4303-937a-50a9" name="Royal Guard" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">8</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">5</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">5</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">6</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">5</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="35.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="5982-c63b-42d6-034c" name="Married Zulu Warriors" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="7646-9350-68cf-d715" name="Thrown Weapons" hidden="false">
+          <description>A unit armed with thrown weapons may reroll all of their failed Melee rolls made when taking a Charge action.</description>
+        </rule>
+        <rule id="6c89-71d8-129c-f21c" name="Scouts" hidden="false">
+          <description>This unit ignores movement penalties from difficult terrain.</description>
+        </rule>
+        <rule id="0522-e998-c08a-ca20" name="Ruthless" hidden="false">
+          <description>Unit gains a -1 bonus to Shoot and Melee tests if this unit has fewer Fatigue Points than its target.</description>
+        </rule>
+        <rule id="afe3-0195-7166-39fe" name="Large Unit" hidden="false">
+          <description>This unit may have up to 10 models.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="88ac-3b3e-f7f1-17d0" name="Married Zulu Warrior" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9c53-f440-166d-53da" type="min"/>
+            <constraint field="selections" scope="parent" value="10.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1b36-d5f4-a49e-c7e3" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="52ad-5db0-02b0-6646" name="Married Zulu Warrior" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">-</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">6</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="3224-93da-4e50-193d" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="4.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="35e0-5c04-8db9-944d" name="Unmarried Zulu Warriors" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="87a9-7cdd-34f9-e985" name="Thrown Weapons" hidden="false">
+          <description>A unit armed with thrown weapons may reroll all of their failed Melee rolls made when taking a Charge action.</description>
+        </rule>
+        <rule id="ed7c-12cb-8f6c-f1ce" name="Large Unit" hidden="false">
+          <description>This unit may have up to 10 models.</description>
+        </rule>
+        <rule id="f02f-0932-33e1-8bfc" name="Furious Assault" hidden="false">
+          <description>May charge from 6” during Charge actions.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="e51b-e5bd-0f2e-89c0" name="Unmarried Zulu Warrior" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="bf76-f63e-8d9d-2229" type="min"/>
+            <constraint field="selections" scope="parent" value="10.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0036-67dd-8af9-1cd4" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="e486-a611-e714-54ee" name="Unmarried Zulu Warrior" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">-</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">5</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">6</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="cb41-e009-b34d-9a0c" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="4.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="a74c-05d5-5e77-dbd4" name="Royal Guard Warriors" hidden="false" collective="false" import="true" type="unit">
+      <rules>
+        <rule id="0f92-03fb-a78d-4832" name="Thrown Weapons" hidden="false">
+          <description>A unit armed with thrown weapons may reroll all of their failed Melee rolls made when taking a Charge action.</description>
+        </rule>
+        <rule id="4211-5297-91f2-1e9d" name="Large Unit" hidden="false">
+          <description>This unit may have up to 10 models.</description>
+        </rule>
+        <rule id="f147-505d-ece0-cc48" name="Furious Assault" hidden="false">
+          <description>May charge from 6” during Charge actions.</description>
+        </rule>
+        <rule id="e17d-8035-55c8-106a" name="Close Combat Specialists" hidden="false">
+          <description>This unit may reroll failed Melee tests.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="5e8f-b46e-e2af-c32c" name="Royal Guard Warrior" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0b7f-72c8-aa6f-82c3" type="min"/>
+            <constraint field="selections" scope="parent" value="10.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5436-a874-8d9c-e842" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="7c33-3c92-eb47-b21d" name="Royal Guard Warrior" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">-</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">5</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">6</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">5</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="499b-cf33-8377-924e" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="7.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="35b4-c1fb-c6a1-e4fd" name="Zulu Warriors with Rifles" hidden="false" collective="false" import="true" type="unit">
+      <modifiers>
+        <modifier type="set" field="7546-737b-db1b-e317" value="0.0">
+          <conditions>
+            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="bfb6-c95a-b939-b248" type="equalTo"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7546-737b-db1b-e317" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="5904-02d7-5e30-7959" name="Elusive" hidden="false">
+          <description>Unit gains a -1 bonus to Shoot Saves while in cover from terrain.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="d046-5ff4-3ca3-033f" name="Zulu Warrior" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9771-b48b-fd27-a549" type="min"/>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f8d0-09b0-a6bb-2b9e" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="f71c-cf56-0596-c981" name="Zulu Warrior" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="58a6-91c6-0836-8af5" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="0c2b-e8f0-3f56-40a9" name="Rifle (BL)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Unlimited</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">No Reload marker after shooting.</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="4.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="bfb6-c95a-b939-b248" name="Zulu Warriors with Muskets" hidden="false" collective="false" import="true" type="unit">
+      <modifiers>
+        <modifier type="set" field="818b-44c7-d090-f0a6" value="0.0">
+          <conditions>
+            <condition field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="35b4-c1fb-c6a1-e4fd" type="equalTo"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="818b-44c7-d090-f0a6" type="max"/>
+      </constraints>
+      <rules>
+        <rule id="de62-029d-3c2c-9766" name="Elusive" hidden="false">
+          <description>Unit gains a -1 bonus to Shoot Saves while in cover from terrain.</description>
+        </rule>
+      </rules>
+      <selectionEntries>
+        <selectionEntry id="ce71-caf4-ed18-8b70" name="Zulu Warrior" hidden="false" collective="false" import="true" type="model">
+          <constraints>
+            <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8952-896f-e744-4d7a" type="min"/>
+            <constraint field="selections" scope="parent" value="8.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="28e0-0b22-ee7a-7c11" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="b77f-ef96-cfcb-c254" name="Zulu Warrior" hidden="false" typeId="e068-3dba-eedd-b131" typeName="Unit">
+              <characteristics>
+                <characteristic name="Move" typeId="80ef-ec38-8760-6b0a">4&quot;</characteristic>
+                <characteristic name="Shoot" typeId="f2c2-5727-d5f6-8b86">7</characteristic>
+                <characteristic name="Melee" typeId="eb23-6d5b-76d1-43c5">6</characteristic>
+                <characteristic name="Shoot Save" typeId="32c4-7eaf-641c-3f9b">6</characteristic>
+                <characteristic name="Melee Save" typeId="3dd2-0fb5-c408-024d">7</characteristic>
+                <characteristic name="Resolve" typeId="bb14-b0d2-7d1f-fcb3">6</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="9c59-9069-c89e-81fa" name="Melee" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">Melee</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Included in unit&apos;s Melee value.</characteristic>
+              </characteristics>
+            </profile>
+            <profile id="1ca5-430f-f1d1-3b62" name="Rifled Musket (ML)" hidden="false" typeId="c9cd-57c8-3205-dd49" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Max Range" typeId="8869-9257-22d2-3dce">40&quot;</characteristic>
+                <characteristic name="Notes" typeId="dff3-a276-cbdb-d3c7">Gain one Reload marker after shooting.
+</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="3.0"/>
+            <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="1.0"/>
+        <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="0.0"/>
+      </costs>
+    </selectionEntry>
+  </sharedSelectionEntries>
+</catalogue>
