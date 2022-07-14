@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="bdfa-e1ec-4704-01bf" name="American Civil War (1861-1865) Confederate Army" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="3eb5-b432-c9db-d045" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="bdfa-e1ec-4704-01bf" name="American Civil War (1861-1865) Confederate Army" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="3eb5-b432-c9db-d045" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entryLinks>
     <entryLink id="cfeb-2805-12b3-efe0" name="Texas Rangers (Repeater Pistol)" hidden="false" collective="false" import="true" targetId="688d-a0a7-59fe-265f" type="selectionEntry">
       <categoryLinks>
@@ -999,7 +999,7 @@ When they are Breechloader Repeaters, they can shoot multiple times each turn an
             </profile>
           </profiles>
           <costs>
-            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="7.0"/>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="8.0"/>
             <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
           </costs>
         </selectionEntry>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<gameSystem id="3eb5-b432-c9db-d045" name="Blood &amp; Steel" revision="1" battleScribeVersion="2.03" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
+<gameSystem id="3eb5-b432-c9db-d045" name="Blood &amp; Steel" revision="2" battleScribeVersion="2.03" xmlns="http://www.battlescribe.net/schema/gameSystemSchema">
   <publications>
     <publication id="b05a-c665-aec4-1564" name="Blood &amp; Steel Victorian Age Combat 1837-1901"/>
   </publications>
   <costTypes>
     <costType id="2a05-fb94-9a98-c9c0" name="Force Points" defaultCostLimit="-1.0" hidden="false"/>
-    <costType id="017a-ec37-7db2-a342" name="Iniative" defaultCostLimit="-1.0" hidden="false"/>
+    <costType id="017a-ec37-7db2-a342" name="Initiative" defaultCostLimit="-1.0" hidden="false"/>
   </costTypes>
   <profileTypes>
     <profileType id="3332-b503-9905-37d2" name="Leader Unit">

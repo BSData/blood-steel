@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="6497-cb2c-bc5d-3243" name="Anglo-Zulu War (1879) British Force" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="3eb5-b432-c9db-d045" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="6497-cb2c-bc5d-3243" name="Anglo-Zulu War (1879) British Force" revision="2" battleScribeVersion="2.03" library="false" gameSystemId="3eb5-b432-c9db-d045" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <entryLinks>
     <entryLink id="1711-7b20-4eeb-4da9" name="Lieutenant Edward Stevenson Browne, V.C." hidden="false" collective="false" import="true" targetId="8128-3da8-8f50-2e80" type="selectionEntry">
       <categoryLinks>
@@ -296,7 +296,7 @@ When they are Breechloader Repeaters, they can shoot multiple times each turn an
             </profile>
           </profiles>
           <costs>
-            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="7.0"/>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="4.0"/>
             <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
           </costs>
         </selectionEntry>
@@ -645,7 +645,7 @@ Gain two Reload markers after shooting. Cannot Move and  Shoot. 90 degree arc of
             </profile>
           </profiles>
           <costs>
-            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="7.0"/>
+            <cost name="Force Points" typeId="2a05-fb94-9a98-c9c0" value="4.0"/>
             <cost name="Iniative" typeId="017a-ec37-7db2-a342" value="0.0"/>
           </costs>
         </selectionEntry>
